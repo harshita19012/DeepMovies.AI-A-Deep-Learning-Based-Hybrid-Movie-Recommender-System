@@ -1,0 +1,1 @@
+Our movie recommendation system is a hybrid filtering system that performs both content-based and collaborative filtering of data to provide recommendations to users regarding movies. It combines deep learning based approaches that can learn efficient representation of these items (Users and Movies) and learn the interaction between them to recommend better choices.
